@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This Function will accept a matrix as an argument only
 ## It provides 4 methods within: set, get, setInverse, and getInverse.
 
